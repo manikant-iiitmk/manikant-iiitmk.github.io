@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manikant's PortFolio"
+title                    : "Manikant's Portfolio"
 title_separator          : "-"
 name                     : "Manikant Roy "
 description              : "Data Science Portfolio"
