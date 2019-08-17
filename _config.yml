@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Manikant's Portfolio"
 title_separator          : "-"
 name                     : "Manikant Roy "
-description              : "Data Science Instructor | Intel Software Innovator "
+description              : "Data Science | Intel Software Innovator "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : "manikant-iiitmk"
   gitlab           :
   google_plus      :
   keybase          :
